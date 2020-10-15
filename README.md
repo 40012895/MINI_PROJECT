@@ -7,3 +7,4 @@
 ![C/C++ CI](https://github.com/99002456/MINI_PROJECT/workflows/C/C++%20CI/badge.svg?branch=master)
 
 ![unit-test](https://github.com/99002456/MINI_PROJECT/workflows/unit-test/badge.svg?branch=master)
+![Valgrind](https://github.com/99002456/MINI_PROJECT/workflows/Valgrind/badge.svg?branch=master)
