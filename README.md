@@ -1,4 +1,4 @@
-# MINI_PROJECT
+# FINAL_CROP_PRODUCTION_PROJECT
 
 |Build|Unit Test|cppcheck|Valgrind|Codacy|
 |:--:|:--:|:--:|:--:|:--:|
