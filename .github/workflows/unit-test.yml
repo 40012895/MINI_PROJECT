@@ -14,4 +14,4 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: gtest-permission
-      run: chmod a+x ./FINAL_CROP_PRODUCTION_PROJECT/all.out 
+      run: chmod a+x 3_Implementation/FINAL_CROP_PRODUCTION_PROJECT/all.out 
